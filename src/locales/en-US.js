@@ -1,0 +1,20 @@
+export default {
+  'menu.welcome': 'Summary',
+  'menu.information': 'Information',
+  'menu.home': 'Home',
+  'menu.welcome.details': 'City',
+  'user.logout': 'Log out',
+  'pages.login.username.placeholder': 'Username: admin or user',
+  'pages.login.username.required': 'Username is require',
+  'pages.login.password.placeholder': 'Password: admin',
+  'pages.login.password.required': 'Password is require',
+  'pages.login.accountLogin.errorMessage': 'Account or password is incorrect（admin/admin)',
+  'summary.countries': 'Countries',
+  'summary.date': 'Date',
+  'summary.totalConfirmed': 'Total Confirmed',
+  'summary.newConfirmed': 'New Confirmed',
+  'summary.newRecovered': 'New Recovered',
+  'summary.totalRecovered': 'Total Recovered',
+  'summary.totalDeaths': 'Total Deaths',
+
+};
